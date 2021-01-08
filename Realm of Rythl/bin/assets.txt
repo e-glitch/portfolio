@@ -1,0 +1,180 @@
+Texture   TexRunDown    images/player/run_down.png              
+Texture   TexRunRight   images/player/run_right.png
+Texture   TexRunUp      images/player/run_up.png
+Texture   TexStandD     images/player/stand_down.png              
+Texture   TexStandR     images/player/stand_right.png
+Texture   TexStandU     images/player/stand_up.png
+Texture   TexAtkDown    images/player/attack_down.png
+Texture   TexAtkRight   images/player/attack_right.png
+Texture   TexAtkUp      images/player/attack_up.png
+Texture   TexSwordDown  images/player/sword_down.png
+Texture   TexSwordUp    images/player/sword_up.png
+Texture   TexSwordRight images/player/sword_right.png
+Texture   TexCelebration images/player/celebration.png
+Texture   TexLinkDead   images/player/link_dead.png
+Texture   TexFalling    images/player/link_falling.png
+Texture   TexRunDown    images/player/run_down.png     
+Texture   TexWaterTL    images/tilesets/water_tl.png
+Texture   TexWaterTM    images/tilesets/water_tm.png
+Texture   TexWaterTR    images/tilesets/water_tr.png
+Texture   TexWaterML    images/tilesets/water_ml.png
+Texture   TexWaterMM    images/tilesets/water_mm.png
+Texture   TexWaterMR    images/tilesets/water_mr.png
+Texture   TexWaterBL    images/tilesets/water_bl.png
+Texture   TexWaterBM    images/tilesets/water_bm.png
+Texture   TexWaterBR    images/tilesets/water_br.png
+Texture   GTexWaterTL   images/tilesets/grass_water_tl.png
+Texture   GTexWaterTM   images/tilesets/grass_water_tm.png
+Texture   GTexWaterTR   images/tilesets/grass_water_tr.png
+Texture   GTexWaterML   images/tilesets/grass_water_ml.png
+Texture   GTexWaterMM   images/tilesets/grass_water_mm.png
+Texture   GTexWaterMR   images/tilesets/grass_water_mr.png
+Texture   GTexWaterBL   images/tilesets/grass_water_bl.png
+Texture   GTexWaterBM   images/tilesets/grass_water_bm.png
+Texture   GTexWaterBR   images/tilesets/grass_water_br.png
+Texture   TexSpikes     images/tilesets/spikes64.png
+Texture   TexLevel      images/tilesets/level_point.png
+Texture   TexTown       images/tilesets/town.png
+Texture   TexCastle     images/tilesets/castle.png
+Texture   TexGrassMM    images/tilesets/grass_mm.png
+Texture   TexGrassCliffTL images/tilesets/grass_cliff_tl.png
+Texture   TexGrassCliffTM images/tilesets/grass_cliff_tm.png
+Texture   TexGrassCliffTR images/tilesets/grass_cliff_tr.png
+Texture   TexGrassCliffML images/tilesets/grass_cliff_ml.png
+Texture   TexGrassCliffMR images/tilesets/grass_cliff_mr.png
+Texture   TexGrassCliffBL images/tilesets/grass_cliff_bl.png
+Texture   TexGrassCliffBM images/tilesets/grass_cliff_bm.png
+Texture   TexGrassCliffBR images/tilesets/grass_cliff_br.png
+Texture   TexCliffMM    images/tilesets/cliff_mm.png
+Texture   TexLandGrass  images/tilesets/land_grass.png
+Texture   TexLandGrass2 images/tilesets/land_grass2.png
+Texture   TexLandRock   images/tilesets/land_rock.png
+Texture   TexFlower     images/tilesets/grass_flower.png
+Texture   TexFlower2    images/tilesets/grass_flower2.png
+Texture   TexBranch     images/tilesets/branch.png
+Texture   TexBranch2    images/tilesets/branch2.png
+Texture   TexHRoadL     images/tilesets/horizontal_road_l.png
+Texture   TexHRoadM     images/tilesets/horizontal_road_m.png
+Texture   TexHRoadR     images/tilesets/horizontal_road_r.png
+Texture   TexVRoadT     images/tilesets/vertical_road_t.png
+Texture   TexVRoadM     images/tilesets/vertical_road_m.png
+Texture   TexVRoadB     images/tilesets/vertical_road_b.png
+Texture   TexTurnBL     images/tilesets/road_turn_bl.png
+Texture   TexTurnBR     images/tilesets/road_turn_br.png
+Texture   TexTurnTL     images/tilesets/road_turn_tl.png
+Texture   TexTurnTR     images/tilesets/road_turn_tr.png
+Texture   TexArrow      images/tilesets/arrow.png
+Texture   TexGravityWell images/tilesets/gravity_well.png
+Texture   TexRock       images/tilesets/rock.png
+Texture   TexSkeleton   images/tilesets/skeleton.png
+Texture   TexRCrystal   images/tilesets/red_crystal.png
+Texture   TexBCrystal   images/tilesets/blue_crystal.png
+Texture   TexRaft       images/tilesets/raft.png
+Texture   TexWoodenBox  images/tilesets/wood_box.png
+Texture   TexHealthPotion images/tilesets/health_potion.png
+Texture   TexStrengthPotion images/tilesets/strength_potion.png
+Texture   TexSpeedPotion images/tilesets/speed_potion.png
+Texture   TexPoisonFlask images/tilesets/poison_flask.png
+Texture   TexSkull      images/NPCs/skull.png
+Texture   TexTree       images/NPCs/tronchungo3.png
+Texture   TexSlime      images/NPCs/slime.png
+Texture   TexArcher     images/NPCs/archer.png
+Texture   TexButton	images/tilesets/button.png
+Texture   TexPlusButton	images/tilesets/plusButton.png
+Texture	  TexNimbus	images/tilesets/nimbus.png
+Animation Spikes	TexSpikes       1    0
+Animation RunDown       TexRunDown      10   4   
+Animation RunRight      TexRunRight     10   4    
+Animation RunUp         TexRunUp        10   4
+Animation StandDown     TexStandD       1    0   
+Animation StandRight    TexStandR       1    0    
+Animation StandUp       TexStandU       1    0
+Animation AtkUp         TexAtkUp        1    0
+Animation AtkDown       TexAtkDown      1    0
+Animation AtkRight      TexAtkRight     1    0
+Animation Celebration   TexCelebration  7    6
+Animation SwordUp       TexSwordUp      1    0
+Animation SwordRight    TexSwordRight   1    0
+Animation LinkDead	TexLinkDead	1    0
+Animation WaterTL       TexWaterTL      1    0
+Animation WaterTM       TexWaterTM      1    0
+Animation WaterTR       TexWaterTR      1    0
+Animation WaterML       TexWaterML      1    0
+Animation WaterMM       TexWaterMM      1    0
+Animation WaterMR       TexWaterMR      1    0
+Animation WaterBL       TexWaterBL      1    0
+Animation WaterBM       TexWaterBM      1    0
+Animation WaterBR       TexWaterBR      1    0
+Animation GWaterTL      GTexWaterTL     1    0
+Animation GWaterTM      GTexWaterTM     1    0
+Animation GWaterTR      GTexWaterTR     1    0
+Animation GWaterML      GTexWaterML     1    0
+Animation GWaterMM      GTexWaterMM     1    0
+Animation GWaterMR      GTexWaterMR     1    0
+Animation GWaterBL      GTexWaterBL     1    0
+Animation GWaterBM      GTexWaterBM     1    0
+Animation GWaterBR      GTexWaterBR     1    0
+Animation Level         TexLevel        1    0
+Animation Town          TexTown         1    0
+Animation Castle        TexCastle       1    0
+Animation GrassMM       TexGrassMM      1    0
+Animation GrassCliffTL  TexGrassCliffTL 1    0
+Animation GrassCliffTM  TexGrassCliffTM 1    0
+Animation GrassCliffTR  TexGrassCliffTR 1    0
+Animation GrassCliffML  TexGrassCliffML 1    0
+Animation GrassCliffMR  TexGrassCliffMR 1    0
+Animation GrassCliffBL  TexGrassCliffBL 1    0
+Animation GrassCliffBM  TexGrassCliffBM 1    0
+Animation GrassCliffBR  TexGrassCliffBR 1    0
+Animation CliffMM       TexCliffMM      1    0
+Animation LandGrass     TexLandGrass    1    0
+Animation LandGrass2    TexLandGrass2   1    0
+Animation LandRock      TexLandRock     1    0
+Animation Flower        TexFlower       1    0
+Animation Flower2       TexFlower2      1    0
+Animation Branch        TexBranch       1    0
+Animation Branch2       TexBranch2      1    0
+Animation HRoadL        TexHRoadL       1    0
+Animation HRoadM        TexHRoadM       1    0
+Animation HRoadR        TexHRoadR       1    0
+Animation VRoadT        TexVRoadT       1    0
+Animation VRoadM        TexVRoadM       1    0
+Animation VRoadB        TexVRoadB       1    0
+Animation TurnBL        TexTurnBL       1    0
+Animation TurnBR        TexTurnBR       1    0
+Animation TurnTL        TexTurnTL       1    0
+Animation TurnTR        TexTurnTR       1    0
+Animation Arrow         TexArrow        1    0
+Animation GravityWell   TexGravityWell  1    0
+Animation Rock          TexRock         1    0
+Animation Skeleton      TexSkeleton     1    0
+Animation RCrystal      TexRCrystal     1    0
+Animation BCrystal      TexBCrystal     1    0
+Animation Skull         TexSkull        3    10
+Animation Tree          TexTree         6    10
+Animation Slime         TexSlime        4    10
+Animation Archer        TexArcher       2    10
+Animation SwordDown     TexSwordDown    1    0
+Animation Raft     	TexRaft    	1    0
+Animation WoodenBox	TexWoodenBox	1    0
+Animation Falling       TexFalling      6    6
+Animation HealthPotion  TexHealthPotion 1    0
+Animation StrengthPotion TexStrengthPotion 1 0
+Animation SpeedPotion   TexSpeedPotion  1    0
+Animation PoisonFlask   TexPoisonFlask  1    0
+Animation Button	TexButton	1    0
+Animation PlusButton	TexPlusButton	1    0
+Animation Nimbus	TexNimbus	1    0
+Sound     MusicTitle    sounds/00Awakening_Extended-Cut_.ogg
+Sound     MusicLevel    sounds/Windless-Slopes.ogg
+Sound     MusicMap      sounds/Red-Carpet-Wooden-Floor.ogg
+Sound     MusicVictory  sounds/Foggy-Woods.ogg
+Sound     Slash         sounds/knifeSlice.ogg
+Sound     LinkHurt      sounds/jingles_HIT00.ogg
+Sound     LinkDie       sounds/jingles_HIT02.ogg
+Sound     EnemyHit      sounds/metalClick.ogg
+Sound     EnemyDie      sounds/dropLeather.ogg
+Sound     GetItem       sounds/jingles_PIZZA00.ogg
+Font      JurassicPark fonts/JurassicPark.ttf
+Font	  PiecesOfEight fonts/PiecesOfEight.ttf
+Font 	  Computer fonts/Computer.ttf
