@@ -3,10 +3,12 @@ They are powered by mysterious purple orbs known as Gravity Wells.
 Beware the evil Skull who is the Sky King, some say he has unlocked the power of the Gravity Wells. Best of Luck! 
 
 Authors:
-		Brandon Mertes 		201618386
-		Erika James 		201602265
-		Keegan Churchill 	201510260
-		Mackenzie Barrett 	201519360
+		Brandon Mertes 		
+		Erika James 		
+		Keegan Churchill 	
+		Mackenzie Barrett 	
+		
+Go to bin/SFMLGame.exe to run the game
 /////////////////////////////////////////////////////////////////////////////
 
 Youtube videos:
