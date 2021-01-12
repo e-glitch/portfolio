@@ -1,0 +1,15 @@
+Unless otherwise specified, all unique sprites in this folder are from the Heroic packs, by Aleksander Makarov https://iknowkingrabbit.itch.io/
+Flaming skull sprite from Warren Clark https://lionheart963.itch.io/
+Tree sprite from Jose Moyano https://jose-moyano.itch.io/
+Slime sprite by rvros https://rvros.itch.io/
+Archer sprite from SciGho/CrystalScience https://ninjikin.itch.io/
+Sound effects from Kenney Game Assets 1 https://kenney.itch.io/
+Title theme from the Aporia Beyond the Valley soundtrack
+Level, world map, and victory music from Estúdio Vaca Roxa, https://bakudas.itch.io/
+Highly recommend Aleksander Makarov and SciGho assets. High quality and easy to work with.
+Fonts from https://www.1001freefonts.com/famous-fonts.php
+	-PiecesOfEight by Steve Ferrera
+	-Computer (Data Control) by Vic Fieger
+	-JurassicPark Jens R. 
+Image Assets Raft, Wood Box, Button, PlusButton,Nimbus, Floating Islands (Background) by Hyeonah Heo
+Image Asset clouds by BiohazardousWaste on https://www.deviantart.com/biohazardouswaste/gallery?q=cloud
