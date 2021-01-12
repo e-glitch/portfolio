@@ -9,6 +9,7 @@ Authors:
 		Mackenzie Barrett 	
 		
 Go to bin/SFMLGame.exe to run the game
+
 /////////////////////////////////////////////////////////////////////////////
 
 Youtube videos:
